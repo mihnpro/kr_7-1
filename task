@@ -1,4 +1,7 @@
 Что нужно сделать, чтобы в git отправить локальный репозиторий в пустой удаленный, если он ещё с ним не связан?
 git remote add origin ссылка на репозиторий
 git commit -m название коммита
-git push -u origin main
+git push -u origin main 
+git remote
+git log
+
